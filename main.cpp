@@ -6,7 +6,7 @@ void f();
 
 void func(void)
 {
-    std::cout<<"\n being used within C++ code\n";
+    cout<<"\n being used within C++ code\n";
 }
 
 int main(void)
