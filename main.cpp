@@ -9,7 +9,7 @@ void func()
     cout<<"\n being used within C++ code and displayed successfully\n";
 }
 
-int main(void)
+int main()
 {
     f();
     func();
