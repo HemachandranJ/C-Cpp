@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void f(void)
+void f()
 {
     printf("\n This is a C code\n");
 }
